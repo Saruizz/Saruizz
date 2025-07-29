@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sebastián Ruiz
 
-<img width="1584" height="396" alt="Banner Sebastian Ruiz" src="https://github.com/user-attachments/assets/1842bfbf-9f92-4a2c-a4f6-1001932f2943" />
+<img width="1584" height="396" alt="Banner Sebastian Ruiz 2" src="https://github.com/user-attachments/assets/087e64a0-20ac-40f4-9665-b5560a14c5df" />
 
 🎓 Estudiante de Ingeniería de Sistemas en la Universidad del Magdalena  
 💻 Desarrollador Web Full Stack en formación  
