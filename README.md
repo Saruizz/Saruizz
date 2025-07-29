@@ -1,5 +1,8 @@
 # 👋 ¡Hola! Soy Sebastián Ruiz
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/23dbc18d-71f5-4f14-a99c-dd726a25d50d" />
+
+
 🎓 Estudiante de Ingeniería de Sistemas en la Universidad del Magdalena  
 💻 Desarrollador Web Full Stack en formación  
 🚀 Apasionado por crear soluciones digitales que combinan funcionalidad, diseño y escalabilidad
