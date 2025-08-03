@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Sebastián Ruiz
+# 👋 ¡Hola! Soy
 
 <img width="1584" height="396" alt="Banner Sebastian Ruiz" src="https://github.com/user-attachments/assets/ae0de63a-9332-44c1-ba00-d0c06e19f280" />
 
