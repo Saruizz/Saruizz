@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Sebastian Ruiz
 
 🎓 Estudiante de Ingeniería de Sistemas en la Universidad del Magdalena  
-💻 Desarrollador Web Full Stack
+💻 Desarrollador Web Full Stack  
 🚀 Apasionado por crear soluciones digitales que combinan funcionalidad, diseño y escalabilidad
 
 ---
