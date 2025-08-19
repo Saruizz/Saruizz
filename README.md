@@ -46,7 +46,7 @@ Aplicación de escritorio con arquitectura MVC, GUI, manejo de usuarios y persis
 🔹 [**Plataforma de parqueadero automatizado**](https://github.com/Saruizz/soyelbackend)  
 Backend en Express.js y PostgreSQL para gestionar entradas, salidas y pagos.
 
-🔹 [**Renta de vehículos**](https://github.com/Saruizz/proyect-vite-react)  
+🔹 Renta de vehículos[**Frontend**](https://github.com/Saruizz/proyect-vite-react) - [**Backend**](https://github.com/Saruizz/integrador_G1_alquiler_autos_backend.git)  
 Frontend en React + Spring Boot con autenticación y base de datos MySQL.
 
 *(Visita mis repos para ver más 👇)*
