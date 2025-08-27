@@ -28,7 +28,7 @@ Me gusta aprender, crear, colaborar y enfrentar nuevos desafíos.
 - Arquitectura MVC
 
 ### Bases de datos
-- MySQL, PostgreSQL, SQL
+- MySQL, PostgreSQL, SQL, Plsql
 
 ### Otras herramientas
 - Git & GitHub
